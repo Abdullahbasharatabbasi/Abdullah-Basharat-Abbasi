@@ -1,4 +1,4 @@
-# Abdullah-Basharat-Abbasi
+# AbdullahBasharatAbbasi
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:0F172A,100:10B981&height=240&section=header&text=Abdullah%20Basharat%20Abbasi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=17" alt="Header banner" />
